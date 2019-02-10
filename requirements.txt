@@ -1,0 +1,2 @@
+mpi-master-slave==0.2.1
+mpi4py==3.0.0
